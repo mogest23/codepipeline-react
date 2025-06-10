@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is updated to show the pipeline is working.
+This project is updated to show the pipeline is working. Usint CloudFormation now. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
